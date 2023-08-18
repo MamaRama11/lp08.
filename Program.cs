@@ -2,7 +2,7 @@
 {
     Console.Write (massage) ;
     string value = Console.ReadLine();
-    int result = Convert.ToInt32(value);
+    int result = Convert.g(value);
     return result;
 
 }
